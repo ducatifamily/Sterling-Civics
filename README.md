@@ -12,3 +12,6 @@ Each initiative has its own HTML file in projects/ with a financial update. Upda
 
 ## Source materials
 Student-provided overview, original wireframe, class constitution and Pictures/Log for Civics. The constitution page summarizes the main tab. No private document links or raw student records are published. Photos are placeholders pending approved assets. The students should review and revise the implementation and document their own contributions for admissions purposes.
+
+
+Deployment fix: CSS is embedded in every HTML page. Upload all files and the projects folder at repository root. assets/style.css is retained as a design reference; changes must be copied into each page.
